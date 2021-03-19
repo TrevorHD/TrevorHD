@@ -11,10 +11,10 @@ Some of the tools and programming languages I regularly use include:
 * TeX
 * R
 
-### Stats
+## Stats
 
 <a href="https://github.com/TrevorHD/TrevorHD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrevorHD&show_icons=true&line_height=32&count_private=true&hide=prs&title_color=00AEFF&text_color=63BEE1&icon_color=00AEFF&bg_color=00000000" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrevorHD&show_icons=true&line_height=32&count_private=true&include_all_commits=true&hide=prs&title_color=00AEFF&text_color=63BEE1&icon_color=00AEFF&bg_color=00000000&custom_title=GitHub Stats" alt="TrevorHD's GitHub Stats" />
 </a>
 
 <a href="https://github.com/TrevorHD/TrevorHD">
