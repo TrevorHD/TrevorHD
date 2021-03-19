@@ -18,5 +18,5 @@ Some of the tools and programming languages I regularly use include:
 </a>
 
 <a href="https://github.com/TrevorHD/TrevorHD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&hide=SAS&card_width=305&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&hide=SAS&card_width=345&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000" />
 </a>
