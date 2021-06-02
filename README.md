@@ -1,6 +1,6 @@
 ## About
 
-I am a researcher with more than 6 years of experience in data analysis, data visualisation, and statistical programming, and have a wide variety of interests at the intersection of ecology, statistics, and data science. My work in ecological systems is focused on plant dispersal and seeks answers to questions regarding (a) modelling dispersal processes, (b) the probabilistic nature of dispersal, (c) relative contributions of multiple dispersal vectors in series and parallel, and (d) how current dispersal patterns may be affected by climate change. Dispersal and movement in ecological systems can be quite challenging to understand, and I use a variety of mechanistic and statistical models to help unravel the mysteries behind these processes. I am also interested in applications of machine learning to problems of classification and prediction, especially in the realms of science, engineering, medicine, and business
+I am a researcher with more than 6 years of experience in data analysis, data visualisation, and statistical programming, and have a wide variety of interests at the intersection of ecology, statistics, and data science. My work in ecological systems is focused on plant dispersal and seeks answers to questions regarding (a) modelling dispersal processes, (b) the probabilistic nature of dispersal, (c) relative contributions of multiple dispersal vectors in series and parallel, and (d) how current dispersal patterns may be affected by climate change. Dispersal and movement in ecological systems can be quite challenging to understand, and I use a variety of mechanistic and statistical models to help unravel the mysteries behind these processes. I am also interested in applications of machine learning to problems of classification and prediction, especially in the realms of science, engineering, medicine, and business.
 
 ## Languages and Tools
 
@@ -24,9 +24,9 @@ All of my public repositories are readily accessible here on GitHub. Private rep
 ## Stats
 
 <a href="https://github.com/TrevorHD/TrevorHD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrevorHD&show_icons=true&line_height=32&count_private=true&include_all_commits=true&hide=prs&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000&custom_title=GitHub Stats" alt="TrevorHD's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrevorHD&show_icons=true&line_height=30&count_private=true&include_all_commits=true&hide=prs,contribs&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000&custom_title=GitHub Stats" alt="TrevorHD's GitHub Stats" />
 </a>
 
 <a href="https://github.com/TrevorHD/TrevorHD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&hide=SAS&card_width=345&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&layout=compact&card_width=345&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000" />
 </a>
