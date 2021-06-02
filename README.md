@@ -28,5 +28,5 @@ All of my public repositories are readily accessible here on GitHub. Private rep
 </a>
 
 <a href="https://github.com/TrevorHD/TrevorHD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&layout=compact&card_width=345&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&layout=compact&card_width=320&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000" />
 </a>
