@@ -12,6 +12,7 @@ I regularly work in both R and Python, with more than 6 years of experience in t
 * SAS
 * TeX
 * Spark
+* Tk
 
 I also have some experience with Java and CSS/HTML, but it has been quite a while since I have worked with them!
 
