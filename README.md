@@ -12,7 +12,7 @@ I regularly work in both R and Python, with more than 6 years of experience in t
 * SAS
 * TeX
 * Spark
-* Tk
+* Tk/Tcl
 
 I also have some experience with Java and CSS/HTML, but it has been quite a while since I have worked with them!
 
@@ -27,7 +27,7 @@ Below are some of my usage stats here on GitHub, including commits, issues opene
 </a>
 
 <a href="https://github.com/TrevorHD/TrevorHD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&layout=compact&card_width=305&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&layout=compact&card_width=305&langs_count=6&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000"/>
 </a>
 
 <br/><br/>
