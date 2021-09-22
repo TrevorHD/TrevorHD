@@ -34,7 +34,7 @@ Below are some of my usage stats here on GitHub, including commits, issues opene
 
 ## Projects
 
-All of my public repositories are readily accessible here on GitHub. Private repositories are listed below and are not publicly accessible due to confidential or sensitive materials.
+All of my public repositories are readily accessible here on GitHub, under the "Repositories" tab; my private repositories are listed below and are currently not publicly accessible.
 
 * **AppliedSML** (*R, TeX*): A collection of analyses and case studies across a variety of domains, focusing on applications of statistical and machine learning in R. These analyses were conducted as part of a course on applied data mining and statistical learning.
 * **CCFraud** (*R, TeX*): A case study using statistical and machine learning to detect instances of credit card fraud, using data consisting of 284,807 transactions from European cardholders in the span of 2 days.
