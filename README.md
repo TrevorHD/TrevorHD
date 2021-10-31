@@ -27,7 +27,7 @@ Below are some of my usage stats here on GitHub, including commits, issues opene
 </a>
 
 <a href="https://github.com/TrevorHD/TrevorHD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&layout=compact&card_width=305&langs_count=6&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&layout=compact&card_width=303&langs_count=6&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000"/>
 </a>
 
 <br/><br/>
@@ -40,6 +40,7 @@ All of my public repositories are readily accessible here on GitHub, under the "
 * **CCFraud** (*R, TeX*): A case study using statistical and machine learning to detect instances of credit card fraud, using data consisting of 284,807 transactions from European cardholders in the span of 2 days.
 * **ClassificationAlgorithms** (*R*): An implementation of algorithms for classifying multi-class data via a) naïve Bayes classification and b) logistic regression via gradient descent.
 * **CombinedDispersal** (*R*): An analysis focused on building a model to quantify serial dispersal events (primary dispersal via wind and secondary dispersal via insect) in an invasive thistle species. Field data and empirical approaches are used to inform mechanistic and statistical models of dispersal and movement.
+* **DamageExperiment** (*R*): An analysis of how repeated mechanical damage affects the survival regrowth of invasive thistles, as well as whether or not increased growing temperatures play a role in these processes.
 * **FlowerHeightShifts** (*R*): An analysis of experimental results examining how increases in ambient temperature affect the distribution of flower heights in two invasive thistle species, as well as the resulting effects on dispersal estimates under a fluid dynamics model.
 * **InsectSeedRemoval** (*R*): A survival analysis of data from an experiment examining the effects of increased growing temperatures and elaiosome presence/absence on seed removal by insects, namely ants.
 
