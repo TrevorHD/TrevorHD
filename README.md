@@ -44,6 +44,7 @@ All of my public repositories are readily accessible here on GitHub, under the "
 * **DamageExperiment** (*R*): An analysis of how repeated mechanical damage affects the survival regrowth of invasive thistles, as well as whether or not increased growing temperatures play a role in these processes.
 * **FlowerHeightShifts** (*R*): An analysis of experimental results examining how increases in ambient temperature affect the distribution of flower heights in two invasive thistle species, as well as the resulting effects on dispersal estimates under a fluid dynamics model.
 * **InsectSeedRemoval** (*R*): A survival analysis of data from an experiment examining the effects of increased growing temperatures and elaiosome presence/absence on seed removal by insects, namely ants.
+* **PLDispersal** (*R*): An analysis of a multi-year experiment examining how increases in ambient temperature affect the growth, reproduction, and dispersal of a weedy perennial plantain.
 * **ShoppingData** (*R*): A collaborative case study using statistical and machine learning to predict rates of online advertisement conversion, using browsing data from online shoppers. These analyses were conducted as part of a course on data mining.
 
 Several of these repositories are current research that will eventually be made public upon publication; others will remain inaccessible for privacy purposes.
