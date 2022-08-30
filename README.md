@@ -23,7 +23,7 @@ I also have some experience with Java and CSS/HTML, but it has been quite a whil
 Below are some of my usage stats here on GitHub, including commits, issues opened, and some of my most frequently used programming languages. The code used to create these stats cards can be found [here](https://github.com/anuraghazra/github-readme-stats).
 
 <a href="https://github.com/TrevorHD/TrevorHD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrevorHD&show_icons=true&line_height=30&count_private=true&include_all_commits=true&hide=prs,contribs&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000&custom_title=GitHub Stats" alt="TrevorHD's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrevorHD&show_icons=true&line_height=30&count_private=true&include_all_commits=true&hide=prs,contribs&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000&custom_title=Activity" alt="TrevorHD's GitHub Stats"/>
 </a>
 
 <a href="https://github.com/TrevorHD/TrevorHD">
