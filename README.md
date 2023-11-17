@@ -4,45 +4,44 @@ As a researcher with years of experience in data analysis, data visualisation, m
 
 <br/>
 
-## Languages and Tools
+## Github Stats
 
-I regularly work in R and Python, with extensive experience in the former. In addition to these two languages, some of the other languages and tools I have worked with include:
-
-* SQL
-* SAS
-* TeX
-* Spark
-* Tk/Tcl
-
-I also have some experience with Java and CSS/HTML, but it has been quite a while since I have worked with them.
-
-<br/>
-
-## Stats
-
-Below are some of my usage stats here on GitHub, including commits, issues opened, and some of my most frequently used programming languages. The code used to create these stats cards can be found [here](https://github.com/anuraghazra/github-readme-stats).
+Below are some of my usage stats here on GitHub, including commits, issues opened, and my most frequently used languages. The code used to create these stats cards can be found [here](https://github.com/anuraghazra/github-readme-stats).
 
 <a href="https://github.com/TrevorHD/TrevorHD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrevorHD&show_icons=true&line_height=30&count_private=true&include_all_commits=true&hide=prs,contribs&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000&custom_title=Activity" alt="TrevorHD's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrevorHD&rank_icon=github&show_icons=true&line_height=30&include_all_commits=true&number_format=long&hide=prs,contribs&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000&custom_title=Public%20Repository%20Activity" alt="TrevorHD's GitHub Stats"/>
 </a>
 
 <a href="https://github.com/TrevorHD/TrevorHD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&layout=compact&card_width=290&langs_count=6&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&layout=compact&card_width=300&langs_count=6&hide=Tcl&size_weight=0.5&count_weight=0.5&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000"/>
 </a>
 
 <br/><br/>
+
+## Programming Languages
+
+Listed below my preferred programming languages for the most common use cases I encounter in my work:
+
+* **Statistics** - R, SAS
+* **Simulation** - R, Python
+* **Machine learning** - R, Python
+* **Data prep** - R, Python
+* **Database operations** - SQL
+* **Typesetting** - TeX
+
+<br/>
 
 ## Projects
 
 All of my public repositories are readily accessible here on GitHub, under the "Repositories" tab; my private repositories are listed below and are currently not publicly accessible.
 
-* **AppliedSML** (*R, TeX*): A collection of analyses and case studies across a variety of domains, focusing on applications of statistical and machine learning in R.
-* **CCFraud** (*R, TeX*): A collaborative case study using statistical and machine learning to detect instances of credit card fraud, using data consisting of 284,807 transactions from European cardholders in the span of 2 days. These analyses were conducted as part of a course on applied data mining and statistical learning.
-* **CCDefault** (*R*): A collaborative case study using statistical and machine learning to predict rates of credit card default, using financial and demographic data from cardholders in Taiwan. These analyses were conducted as part of a course on data mining.
-* **ClassificationAlgorithms** (*R*): An implementation of algorithms for classifying multi-class data via a) naïve Bayes classification and b) logistic regression via gradient descent.
-* **CombinedDispersal** (*R*): An analysis focused on building a model to quantify serial dispersal events (primary dispersal via wind and secondary dispersal via insect) in an invasive thistle species. Field data and empirical approaches are used to inform mechanistic and statistical models of dispersal and movement.
-* **DamageExperiment** (*R*): An analysis of how repeated mechanical damage affects the survival regrowth of invasive thistles, as well as whether or not increased growing temperatures play a role in these processes.
-* **PLDispersal** (*R*): An analysis of a multi-year experiment examining how increases in ambient temperature affect the growth, reproduction, and dispersal of a weedy perennial plantain.
-* **ShoppingData** (*R*): A collaborative case study using statistical and machine learning to predict rates of online advertisement conversion, using browsing data from online shoppers. These analyses were conducted as part of a course on data mining.
+* **AppliedSML** (*R, TeX*) - A collection of analyses and case studies across a variety of domains, focusing on applications of statistical and machine learning in R.
+* **CCFraud** (*R, TeX*) - A collaborative case study using statistical and machine learning to detect instances of credit card fraud, using data consisting of 284,807 transactions from European cardholders in the span of 2 days. These analyses were conducted as part of a course on applied data mining and statistical learning.
+* **CCDefault** (*R*) - A collaborative case study using statistical and machine learning to predict rates of credit card default, using financial and demographic data from cardholders in Taiwan. These analyses were conducted as part of a course on data mining.
+* **ClassificationAlgorithms** (*R*) - An implementation of algorithms for classifying multi-class data via a) naïve Bayes classification and b) logistic regression via gradient descent.
+* **CombinedDispersal** (*R*) - An analysis focused on building a model to quantify serial dispersal events (primary dispersal via wind and secondary dispersal via insect) in an invasive thistle species. Field data and empirical approaches are used to inform mechanistic and statistical models of dispersal and movement.
+* **DamageExperiment** (*R*) - An analysis of how repeated mechanical damage affects the survival regrowth of invasive thistles, as well as whether or not increased growing temperatures play a role in these processes.
+* **PLDispersal** (*R*) - An analysis of a multi-year experiment examining how increases in ambient temperature affect the growth, reproduction, and dispersal of a weedy perennial plantain.
+* **ShoppingData** (*R*) - A collaborative case study using statistical and machine learning to predict rates of online advertisement conversion, using browsing data from online shoppers. These analyses were conducted as part of a course on data mining.
 
 Several of these repositories are current research that will eventually be made public upon publication; others will remain inaccessible for privacy purposes.
