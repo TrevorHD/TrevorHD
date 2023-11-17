@@ -8,12 +8,28 @@ As a researcher with years of experience in data analysis, data visualisation, m
 
 Below are some of my usage stats here on GitHub, including commits, issues opened, and my most frequently used languages. The code used to create these stats cards can be found [here](https://github.com/anuraghazra/github-readme-stats).
 
-<a href="https://github.com/TrevorHD/TrevorHD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrevorHD&rank_icon=github&show_icons=true&line_height=30&include_all_commits=true&number_format=long&hide=prs,contribs&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000&custom_title=Public%20Repository%20Activity" alt="TrevorHD's GitHub Stats"/>
+<a href = "https://github.com/TrevorHD/TrevorHD">
+<picture>
+  <source
+    srcset = "https://github-readme-stats.vercel.app/api?username=TrevorHD&rank_icon=github&show_icons=true&line_height=24&include_all_commits=true&number_format=long&custom_title=Public%20Repository%20Activity&hide=contribs&theme=dark"
+    media = "(prefers-color-scheme: dark)"/>
+  <source
+    srcset = "https://github-readme-stats.vercel.app/api?username=TrevorHD&rank_icon=github&show_icons=true&line_height=24&include_all_commits=true&number_format=long&custom_title=Public%20Repository%20Activity&hide=contribs"
+    media = "(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=TrevorHD&rank_icon=github&show_icons=true&line_height=24&include_all_commits=true&number_format=long&custom_title=Public%20Repository%20Activity&hide=contribs" alt = "TrevorHD's GitHub Stats" />
+</picture>
 </a>
 
-<a href="https://github.com/TrevorHD/TrevorHD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&layout=compact&card_width=300&langs_count=6&hide=Tcl&size_weight=0.5&count_weight=0.5&title_color=00AEFF&text_color=00AEFF&icon_color=00AEFF&bg_color=00000000"/>
+<a href = "https://github.com/TrevorHD/TrevorHD">
+<picture>
+  <source
+    srcset = "https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&layout=compact&card_width=300&langs_count=6&hide=Tcl&size_weight=0.5&count_weight=0.5&theme=dark"
+    media = "(prefers-color-scheme: dark)"/>
+  <source
+    srcset = "https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&layout=compact&card_width=300&langs_count=6&hide=Tcl&size_weight=0.5&count_weight=0.5"
+    media = "(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorHD&layout=compact&card_width=300&langs_count=6&hide=Tcl&size_weight=0.5&count_weight=0.5" alt = "TrevorHD's GitHub Stats" />
+</picture>
 </a>
 
 <br/><br/>
