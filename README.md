@@ -1,6 +1,8 @@
 ## About
 
-As a researcher with years of experience in data analysis, data visualisation, model building, and statistical programming, I have a wide variety of interests at the intersection of statistics, data science, engineering, business, and natural sciences. My current work is in ecological systems and focuses on plant dispersal, seeking answers to questions regarding (a) modelling dispersal processes, (b) the probabilistic nature of dispersal, (c) relative contributions of multiple dispersal vectors in series and parallel, and (d) how current dispersal patterns may be affected by climate change. Dispersal and movement in ecological systems can be quite challenging to understand, and I use a variety of mechanistic and statistical models to help unravel the mysteries behind these processes. I am also interested in applications of machine learning to problems of classification and prediction.
+I currently work as a market analyst in the semiconductor industry and have years of experience in data analysis, machine learning, model and simulation development, and statistical programming. My interests are quite varied and span fields such as business, statistics, engineering, data science, and natural sciences, among others. 
+
+Outside of my day-to-day work, I also conduct research in ecological systems, with a focus on plant dispersal. This research addresses questions regarding (a) modelling dispersal processes, (b) the probabilistic nature of dispersal, (c) relative contributions of multiple dispersal vectors in series and parallel, and (d) how current dispersal patterns may be affected by climate change. Dispersal and movement in ecological systems can be quite challenging to quantify, and I use a variety of mechanistic and statistical models to help improve our understanding of these processes.
 
 <br/>
 
@@ -36,18 +38,17 @@ Below are some of my usage stats here on GitHub, including commits, issues opene
 
 ## Programming Languages
 
-Listed below my preferred programming languages for the most common use cases I encounter in my work:
+Listed below are my preferred languages and how I use them in my daily work, scientific research, and personal projects:
 
-* **Statistics** - R, SAS
-* **Simulation** - R, Python
-* **Machine learning** - R, Python
-* **Data prep** - R, Python
-* **Database operations** - SQL
-* **Typesetting** - TeX
+* **R** - My go-to language for any sort of statistical computing (especially for scientific research), and the one I have the most experience with. I also frequently use it for data prep, simulation, and machine learning as well.
+* **Python** - My preferred language for machine learning applications, though I will also use it for data prep and simulation.
+* **SQL** - Will often run through R and Python when needing to interface with databases or manage large data pulls.
+* **SAS** - Will occasionally use for statistical computing, though I much prefer R since it is significantly more versatile.
+* **TeX** - Will occasionally use for typesetting in documentation, articles, and scientific publications.
 
 <br/>
 
-## Projects
+## Projects and Repositories
 
 All of my public repositories are readily accessible here on GitHub, under the "Repositories" tab; my private repositories are listed below and are currently not publicly accessible.
 
