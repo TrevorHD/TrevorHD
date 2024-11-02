@@ -1,6 +1,6 @@
 ## About
 
-I currently work as a market analyst in the semiconductor industry and have years of experience in data analysis, machine learning, model and simulation development, and statistical programming. My interests are quite varied and span fields such as business, statistics, engineering, data science, and natural sciences, among others. 
+I am a quantitative analyst with approximately 10 years of experience in data analysis, machine learning, model and simulation development, and statistical programming. My current line of work is in the semiconductor industry, where I focus on market sizing, forecasting, and analytics for server and data centre products. Though much of my background is in statistics, data science, and natural sciences, my interests also span other fields such as engineering and business, among others.
 
 Outside of my day-to-day work, I also conduct research in ecological systems, with a focus on plant dispersal. This research addresses questions regarding (a) modelling dispersal processes, (b) the probabilistic nature of dispersal, (c) relative contributions of multiple dispersal vectors in series and parallel, and (d) how current dispersal patterns may be affected by climate change. Dispersal and movement in ecological systems can be quite challenging to quantify, and I use a variety of mechanistic and statistical models to help improve our understanding of these processes.
 
@@ -58,6 +58,7 @@ All of my public repositories are readily accessible here on GitHub, under the "
 * **ClassificationAlgorithms** (*R*) - An implementation of algorithms for classifying multi-class data via a) naïve Bayes classification and b) logistic regression via gradient descent.
 * **CombinedDispersal** (*R*) - An analysis focused on building a model to quantify serial dispersal events (primary dispersal via wind and secondary dispersal via insect) in an invasive thistle species. Field data and empirical approaches are used to inform mechanistic and statistical models of dispersal and movement.
 * **DamageExperiment** (*R*) - An analysis of how repeated mechanical damage affects the survival regrowth of invasive thistles, as well as whether or not increased growing temperatures play a role in these processes.
+* **MarketData** (*R, TeX*) - An exploration of using various forms of machine learning for predictive modelling on stocks and ETFs, using the S&P 500 as an example.
 * **PLDispersal** (*R*) - An analysis of a multi-year experiment examining how increases in ambient temperature affect the growth, reproduction, and dispersal of a weedy perennial plantain.
 * **ShoppingData** (*R*) - A collaborative case study using statistical and machine learning to predict rates of online advertisement conversion, using browsing data from online shoppers. These analyses were conducted as part of a course on data mining.
 
