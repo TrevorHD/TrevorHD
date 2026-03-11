@@ -34,11 +34,11 @@ Most of my projects here GitHub are publicly accessible and can be found under t
 The following repositories are not publicably available because they a) are part of ongoing research that has yet to be published, or b) contain sensitive/classified information:
 
 * **AppliedSML** (*R, TeX*) - A collection of analyses and case studies across a variety of domains, focusing on applications of statistical and machine learning in R.
+* **AppliedMV** (*SAS*) - A collection of analyses and case studies across a variety of domains, focusing on applications of multivariate statistical analysis in SAS.
 * **CCDefault** (*R*) - A case study using statistical and machine learning to predict whether a customer will default on their credit card payments, using demographic/transaction data from cardholders in Taiwan.
 * **CCFraud** (*R, TeX*) - A case study using statistical and machine learning to detect instances of credit card fraud, using transaction data from European cardholders.
-* **ClassificationAlgorithms** (*R*) - A case study using naïve Bayes classification and logistic regression via gradient descent to classify multi-class data.
-* **CombinedDispersal** (*R*) - An experiment focused on modelling serial dispersal events in an invasive thistle species, using a combination of field data and mechanistic/statistical models.
-* **MarketData** (*R, TeX*) - A case study using various forms of machine learning to forecast major market indices, namely the NASDAQ and S&P 500.
+* **ClassAlgos** (*R*) - A case study using from-scratch implementations of naïve Bayes classification and logistic regression via gradient descent to classify simulated multi-class data.
+* **MarketAnalysis** (*R, TeX*) - A case study using various forms of machine learning to forecast major market indices, namely the NASDAQ and S&P 500.
 * **PLDispersal** (*R*) - An experiment examining how increases in ambient temperature affect the growth, reproduction, and dispersal of a weedy perennial plantain.
 * **ShoppingData** (*R*) - A case study using statistical and machine learning to predict rates of online advertisement conversion, using browsing data from online shoppers.
 
